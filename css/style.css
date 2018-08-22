@@ -1,0 +1,41 @@
+.body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0 0 0 20px;
+ 
+}
+
+h1 {
+    padding: 15px 0 0 20px;
+    display: flex;
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.about {
+    display: flex;
+}
+.pressrelease {
+    display: flex;
+}
+.pressrelease text {
+}
+.pressrelease pressreleaseicon {
+
+}
+
+
+.brooklynn {
+    display: flex;
+}
+.brooklynn text {
+}
+.brooklynn brooklynnicon {
+}
+
+.relaxr {
+    display: flex;
+}
+.relaxr text {
+}
+.relaxr relaxricon {
+}
